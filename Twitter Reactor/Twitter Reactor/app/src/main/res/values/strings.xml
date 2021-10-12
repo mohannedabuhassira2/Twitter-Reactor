@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Twitter Reactor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_input_hint">Enter any keyword here</string>
+    <string name="show_more_text">Show more</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate us</string>
+    <string name="about_us">About us</string>
+</resources>
